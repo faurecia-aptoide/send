@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./design/Github.png" alt="logo">
+  <img src="./design/send.png" alt="logo">
 </p>
 
 <a href="https://discord.gg/nuby6RnxZt">
