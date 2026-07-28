@@ -22,7 +22,7 @@ It includes a server, a web page and a CLI client.
 
 ### Web
 
-Check out the live service / demo and see for yourself [cryptgeon.org](https://cryptgeon.org)
+Check out the live service for yourself [Send](https://send.internal.appning.com)
 
 ### CLI
 
